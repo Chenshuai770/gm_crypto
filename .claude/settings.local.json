@@ -7,7 +7,8 @@
       "Bash(flutter pub get:*)",
       "Bash(flutter analyze:*)",
       "Bash(flutter test:*)",
-      "Bash(flutter pub publish:*)"
+      "Bash(flutter pub publish:*)",
+      "Bash(del \"C:\\\\work\\\\custom\\\\flutter_sm\\\\lib\\\\flutter_sm.dart\")"
     ]
   }
 }

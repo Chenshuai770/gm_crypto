@@ -1,5 +1,5 @@
 /// Flutter/Dart实现的国密SM2、SM3、SM4算法库
-library flutter_sm;
+library gm_crypto;
 
 export 'sm/sm2.dart';
 export 'sm/sm3.dart';

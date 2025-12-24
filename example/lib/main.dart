@@ -1,7 +1,6 @@
-import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_sm/flutter_sm.dart';
+import 'package:gm_crypto/gm_crypto.dart';
 
 void main() {
   runApp(const MyApp());

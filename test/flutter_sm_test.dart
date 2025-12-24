@@ -1,5 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_sm/flutter_sm.dart';
+import 'package:gm_crypto/sm/sm2.dart';
+import 'package:gm_crypto/sm/sm3.dart';
+import 'package:gm_crypto/sm/sm4.dart';
 
 void main() {
   group('SM2', () {
