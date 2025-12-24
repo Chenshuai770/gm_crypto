@@ -1,6 +1,6 @@
 name: flutter_sm
 description: "Flutter/Dart实现的国密SM2、SM3、SM4算法库。支持SM2签名/验签/加密/解密、SM3哈希、SM4对称加密(ECB/CBC模式)。"
-version: 1.0.0+100
+version: 1.0.0
 homepage: https://github.com/Chenshuai770/flutter_sm
 repository: https://github.com/Chenshuai770/flutter_sm
 issue_tracker: https://github.com/Chenshuai770/flutter_sm/issues
