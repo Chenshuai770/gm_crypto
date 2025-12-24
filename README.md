@@ -23,7 +23,7 @@ Flutter/Dart 实现的国密SM2、SM3、SM4算法库。
 
 ```yaml
 dependencies:
-  flutter_sm: ^0.0.1
+   gm_crypto: ^1.0.0
 ```
 
 然后运行:
