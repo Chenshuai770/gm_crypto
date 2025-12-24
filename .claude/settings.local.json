@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(del \"C:\\\\work\\\\custom\\\\flutter_sm\\\\lib\\\\flutter_sm_method_channel.dart\")",
+      "Bash(del \"C:\\\\work\\\\custom\\\\flutter_sm\\\\lib\\\\flutter_sm_platform_interface.dart\")",
+      "Bash(flutter pub get:*)",
+      "Bash(flutter analyze:*)",
+      "Bash(flutter test:*)",
+      "Bash(flutter pub publish:*)"
+    ]
+  }
+}
